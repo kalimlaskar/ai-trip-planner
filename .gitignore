@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables (keep your API key private!)
+.env
+
+# Build output
+dist/
+
+# Vite / editor caches
+.vite/
+.DS_Store
+*.local
