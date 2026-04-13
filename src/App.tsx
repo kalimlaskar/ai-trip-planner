@@ -87,7 +87,7 @@ export default function App() {
         <div className="hero-content">
           <div className="hero-icon">✈️</div>
           <h1>Trip Planner AI</h1>
-          <p className="hero-sub">Powered by Gemini — your intelligent travel companion</p>
+          <p className="hero-sub">Powered by Wander Gateway — your intelligent travel companion</p>
         </div>
       </header>
 
